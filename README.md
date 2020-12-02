@@ -12,7 +12,7 @@ Nesse projeto iremos trabalhar com a API Tesseract própria para reconhecimento 
 Todo o material apresentado aqui é facilmente encontrado fazendo simples buscas utilizando o Google. 
 Nesta sessão será disponibilizada os links utilizados como auxílio para desenvolvimento do projeto. 
 <ol>
-https://www.geeksforgeeks.org/tesseract-ocr-with-java-with-examples/
-https://ivanqueiroz.dev/2020/07/2020-08-30-ocr-java-tesseract-tess4j.html
+  <li>https://www.geeksforgeeks.org/tesseract-ocr-with-java-with-examples/</li>
+  <li>https://ivanqueiroz.dev/2020/07/2020-08-30-ocr-java-tesseract-tess4j.html</li>
 </ol>  
 <h1>Dependencia</h1>
