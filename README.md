@@ -8,10 +8,10 @@ Esse repositório foi criado com objetivo didático. Nele contém um projeto que
 
 <ol>
   <li>Ao executar o projeto será feito um print da tela atual que será guardado em um Buffer de Imgem onde o mesmo será adicionado a uma tela onde é possível navegar com um Scroll;</li>
-<li>Ao movimentar o mouse sobre a área que desejamos selecionar será possível visualizar as coordenadas do mouse;<li>
-<li>Ao usar o mouse para marcar a região desejada visuaizamos na tela as coordenadas da área selecionada;<li>
-<li>Em seguida basta clicar no botão "OK" que a região selecionada será salva em uma pasta do projeto onde será feita a leitura dessa imagem com o uso do Tesseract-OCR;<li>
-<li>O resultado é printado no console da sua IDE.<li>
+<li>Ao movimentar o mouse sobre a área que desejamos selecionar será possível visualizar as coordenadas do mouse;</li>
+<li>Ao usar o mouse para marcar a região desejada visuaizamos na tela as coordenadas da área selecionada;</li>
+<li>Em seguida basta clicar no botão "OK" que a região selecionada será salva em uma pasta do projeto onde será feita a leitura dessa imagem com o uso do Tesseract-OCR;</li>
+<li>O resultado é printado no console da sua IDE.</li>
 </ol>
 
 <h1>Sobre</h1>
